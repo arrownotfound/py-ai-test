@@ -1,0 +1,20 @@
+# Python 虚拟环境（不要传，别人自己装）
+.venv/
+venv/
+env/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyCharm 配置
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 密钥、本地配置（千万不要传）
+.env
+*.key
